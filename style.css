@@ -1,0 +1,15 @@
+.container{
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(247, 243, 242, 0.7);
+}
+
+.img-size{
+    width: 200px;
+    height: 150px;
+}
+
+body{
+    background-image: url(https://mblogthumb-phinf.pstatic.net/20160606_66/minethdtmdfl07_1465185109564gcViI_PNG/1.PNG?type=w800);
+}
